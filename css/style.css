@@ -1,0 +1,43 @@
+body {
+  width: 1000px;
+}
+
+h1 {
+  width: 500px;
+  background-color: blueviolet;
+  font-size: 32px;
+  color: red;
+  border: 3px solid #ccc;
+  padding: 8px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+h2 {
+  width: 500px;
+  background-color: black;
+  font-size: 64px;
+  color: yellow;
+  padding: 100px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+li {
+  font-size: 64px;
+  margin: 0 auto;
+  color: greenyellow;
+  background-color: white;
+  text-align: center;
+}
+
+h3 {
+  width: 500px;
+  background-color: blueviolet;
+  font-size: 32px;
+  color: red;
+  border: 3px solid #ccc;
+  padding: 8px;
+  text-align: center;
+  margin: 0 auto;
+}
